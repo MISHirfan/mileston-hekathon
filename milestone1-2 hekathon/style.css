@@ -1,0 +1,21 @@
+body{
+    background-color:cadetblue;
+    color:rgb(20, 20, 85);
+    text-align: center;
+    font-weight: bold;
+    padding: 0cap;
+    margin-inline-start: auto;
+    }
+img{
+     width: 150px;
+     height: 150px;
+}
+ dive{
+    padding: 5px;
+    margin: 10px;
+    color:aliceblue
+ }   
+h2{
+    color:black;
+    font-size: bold;
+}
